@@ -5,3 +5,5 @@ label_encoder.pkl
 model_meta.pkl
 model_meta_v2.pkl
 scaler_vk2.pkl
+deepfake_detector_v2.pkl
+cursorrule.txt
