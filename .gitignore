@@ -1,9 +1,10 @@
+*.pkl
 deepfake_detector.pkl
 label_encoder_v2.pkl
 scaler.pkl
 label_encoder.pkl
 model_meta.pkl
 model_meta_v2.pkl
-scaler_vk2.pkl
+scaler_v2.pkl
 deepfake_detector_v2.pkl
 cursorrule.txt
